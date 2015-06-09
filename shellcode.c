@@ -2,7 +2,7 @@
  
 /*
 tested on BackTrack 5 R3
-First ShellCode , Function : Just Write my name -_- . But i'm noob in C & Asm and i'debuting
+First ShellCode , Function : Just Write my name -_- . But i'm noob in Asm and i'debuting
 */
  
 int main()
