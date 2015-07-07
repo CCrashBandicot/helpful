@@ -14,6 +14,7 @@ Fuckyou.vbs (For N00bz)<br>
 erase.pl (Log Eraser) <br>
 hotmail.pl (Extract Mail From Hotmail (outlook.fr , hotmail.com , hotmail.co.uk , msn.com , hotmail.fr))<br>
 drupal.php (CVE-2014-3704)<br>
-cmd.php (Sent Request Shell) <br><br>
+cmd.php (Sent Request Shell) <br>
+spip.pl (SPIP < 3.0.9 / 2.1.22 / 2.0.23 Privilege Escalation ;CVE: 2013-2118)<br><br>
 <strong>Other is Cve or Tools of Other</strong>
  
