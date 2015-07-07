@@ -18,4 +18,4 @@ if($rsp =~ m/<h1 style=\"font-size:38px;font-family:Arial;color:white;margin:0px
    print "\n  ~ Tor Connection Work !\n";
 
 	print "   [+] Your IP now is : ".$1."\n";
-} else { die("Tor not Runned");  }
+} else { die("Tor not Runned.");  }
