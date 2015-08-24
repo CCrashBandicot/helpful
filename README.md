@@ -16,6 +16,7 @@ hotmail.pl (Extract Mail From Hotmail (outlook.fr , hotmail.com , hotmail.co.uk 
 drupal.php (CVE-2014-3704)<br>
 cmd.php (Sent Request Shell) <br>
 spip.pl (SPIP < 3.0.9 / 2.1.22 / 2.0.23 Privilege Escalation ;CVE: 2013-2118)<br>
-jce.php (Last method of JCE Arbitrary Upload with curl)<br><br>
+jce.php (Last method of JCE Arbitrary Upload with curl)<br>
+parser_hma.pl (Proxy Parser of HMA, coded in fast) <br><br>
 <strong>Other is Cve or Tools of Other</strong>
  
