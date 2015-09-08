@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 
-# GO HMA Proxy List Select 100 per page and submit and take proxy and paste in notepad and save
-# after parsed proxy via this tools Test Good Proxy on http://incloak.com/proxy-checker/ and dl the good proxy
- 	
 # @array = ("France","Usa","China","Australia","Spain","Korea","Germany","China","Viet Nam","Canada","Venezuela","Brazil","Mongolia","Kazakhstan","UK","Sweden","HongKong","Chile","India","HTTPS","HTTP","High +KA","High","Medium","Low","Fast","Socks4/5","flag");
 
 open(op,"<$ARGV[0]") or die "$!";
