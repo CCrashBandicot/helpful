@@ -9,6 +9,7 @@
 <h2>  My Tools </h2> 
 MS15-034.pl (Microsoft Window (HTTP.sys) - HTTP Request Parsing DoS)<br>
 Tor.pl (Test Tor Connexion) <br>
+tor_identity.pl (Switch Tor Identity On Tor Browser )<br>
 HexSQL.pl (Convert Text to Hex , for sqli , convert table or db ...)<br>
 Fuckyou.vbs (For N00bz)<br>
 erase.pl (Log Eraser) <br>
