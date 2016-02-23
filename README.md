@@ -20,6 +20,7 @@ spip.pl (SPIP < 3.0.9 / 2.1.22 / 2.0.23 Privilege Escalation ;CVE: 2013-2118)<br
 jce.php (Last method of JCE Arbitrary Upload with curl)<br>
 parser_hma.pl (Proxy Parser of HMA, coded in fast) <br>
 us-proxy.pl (Grabb proxy from us-proxy.org) <br>
+jce_check.pl (jce component check) <br>
 sslproxies.pl (Grabb SSL Proxy from www.sslproxies.org)<br><br>
 <strong>Other is Cve or Tools of Other</strong>
  
