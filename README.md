@@ -6,8 +6,7 @@
       ██║  ██║███████╗███████╗██║     ██║     ╚██████╔╝███████╗
       ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝      ╚═════╝ ╚══════╝
       
-<h2>  My Tools </h2> 
-MS15-034.pl (Microsoft Window (HTTP.sys) - HTTP Request Parsing DoS)<br>
+<h2>  My Little Scripts </h2> 
 Tor.pl (Test Tor Connexion) <br>
 tor_identity.pl (Switch Tor Identity )<br>
 HexSQL.pl (Convert Text to Hex , for sqli , convert table or db ...)<br>
